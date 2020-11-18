@@ -1,0 +1,3 @@
+[submodule "mobile_architecture/Kingfisher"]
+	path = mobile_architecture/Kingfisher
+	url = https://github.com/onevcat/Kingfisher.git

@@ -1,9 +1,8 @@
 //
 //  Networking.swift
+//  mobile_architecture
 //
-//
-//  Created by Ferdinand on 31/07/20.
-//  Copyright © 2020 Tiket.com. All rights reserved.
+//  Created by Ferdinand on 17/11/20.
 //
 
 import Foundation

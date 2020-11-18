@@ -6,7 +6,7 @@
 //
 
 import XCTest
-@testable import mobile_architecture
+//@testable import mobile_architecture
 
 class mobile_architectureTests: XCTestCase {
 

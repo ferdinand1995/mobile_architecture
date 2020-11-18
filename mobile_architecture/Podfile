@@ -7,13 +7,4 @@ target 'mobile_architecture' do
 
   # Pods for mobile_architecture
 
-  target 'mobile_architectureTests' do
-    inherit! :search_paths
-    # Pods for testing
-  end
-
-  target 'mobile_architectureUITests' do
-    # Pods for testing
-  end
-
 end
